@@ -1,0 +1,54 @@
+.job__avatar {
+    width: 100px;
+    height: 100px;
+    background: #000;
+    border-radius: 100%;
+    margin-right: 26px;
+}
+.job__item {
+    justify-content: space-between;
+    background: #fff;
+    padding: 25px 35px;
+    margin-bottom: 40px;
+}
+.job__company {
+    font-weight: 400;
+    font-size: 12px;
+    color: #699b9a;
+}
+.job__featured {
+    font-weight: 400;
+    font-size: 12px;
+    color: #ffffff;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    background: #323232;
+    border-radius: 25px;
+    padding: 5px 9px;
+    margin-left: 13px;
+}
+.job__title {
+    font-weight: 400;
+    font-size: 22px;
+    color: #182120;
+    margin-top: 7px;
+    margin-bottom: 17px;
+}
+.job__condition {
+    font-weight: 400;
+    font-size: 12px;
+    color: #b6b6b6;
+    margin-right: 22px;
+}
+.job__link {
+    font-weight: 400;
+    font-size: 12px;
+    color: #699999;
+    background: #c4c4c4;
+    border-radius: 5px;
+    padding: 4px 5px;
+    margin-left: 25px;
+}
+
+.job__content {
+    margin-top: 84px;
+}
